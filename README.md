@@ -1,3 +1,3 @@
 # maheshdemo
 This is my first Repository.
-Author - Mahesh Shakya
+Author - Mahesh Shakya (Learner)
